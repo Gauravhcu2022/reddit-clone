@@ -100,7 +100,5 @@ Click ‘Import’.
 
 
 
-## Contributing
-If you'd like to contribute to this project, please open an issue or submit a pull request.
 
 
